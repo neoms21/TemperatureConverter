@@ -72,9 +72,6 @@ namespace TemperatureConverter.Tests
 
             _viewModel.IsCelciusToFahrenheit = false;
             Assert.AreEqual("7.22", _viewModel.Result);
-
         }
-
-
     }
 }

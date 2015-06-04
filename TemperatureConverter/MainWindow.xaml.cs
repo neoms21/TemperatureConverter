@@ -27,8 +27,5 @@ namespace TemperatureConverter
             InitializeComponent();
             DataContext = new MainViewModel();
         }
-
-
-       
     }
 }
